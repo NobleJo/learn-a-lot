@@ -1,6 +1,6 @@
-# learn-a-lot
+# hello-world
 
-Lots of new things I am learning / building.
+Am hoping to learn lots of new things!!!
 
 My name is Jo and I am just starting to learn how to become a software developer. 
 
